@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FastDrop ⚡</string>
+    <string name="app_subtitle">انتقال سریع فایل در شبکه WiFi</string>
+    <string name="send_title">ارسال فایل</string>
+    <string name="send_subtitle">انتخاب و اشتراک‌گذاری مستقیم فایل با کد QR</string>
+    <string name="receive_title">دریافت فایل</string>
+    <string name="receive_subtitle">اسکن کد QR یا ورود آدرس برای دانلود مستقیم</string>
+</resources>

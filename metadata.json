@@ -1,0 +1,6 @@
+{
+  "name": "FastDrop ⚡",
+  "description": "FastDrop - انتقال مستقیم و فوق سریع فایل در شبکه محلی WiFi/LAN با کد QR و دانلود جریانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
